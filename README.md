@@ -1,3 +1,3 @@
-# Identifying-Speakers-in-Cocktail-Parties-with-E2E-Attention
+# Identify-Speakers-in-Cocktail-Parties-with-E2E-Attention
 This project uses attention methods to build a source separation and speaker identification pipeline. It outperforms state-of-the-art methods in single-channel mixture speaker identification by far.<br>
 Paper submitted to interspeech 2020. Arxiv link: https://arxiv.org/abs/2005.11408
