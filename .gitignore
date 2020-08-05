@@ -6,3 +6,4 @@ junk/
 files/
 *.pth
 *.npy
+*.tar
