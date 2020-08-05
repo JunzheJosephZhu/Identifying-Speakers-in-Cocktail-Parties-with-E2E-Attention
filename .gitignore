@@ -1,0 +1,8 @@
+junk/
+*.wav
+*.sph
+*.sgml
+*.xml
+files/
+*.pth
+*.npy
